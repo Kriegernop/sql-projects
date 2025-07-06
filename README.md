@@ -1,5 +1,6 @@
 # sql-projects
 **Self-directed SQL learning through practical business projects**
+
 **Overview**
 SQL projects with increasing complexity, from basic queries to advanced business intelligence. Each project builds upon previous skills while solving real-world business problems.
 
