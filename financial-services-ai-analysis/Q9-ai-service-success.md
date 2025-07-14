@@ -28,8 +28,8 @@ Service performance ranking:
   - Chatbot Support: 85% completion (8-45 minutes, some escalations)
 Satisfaction correlation: Higher completion rates correlate with higher satisfaction (4.2-5.0 ratings)
 Resolution efficiency: Automated services (Fraud Detection, Recommendations) resolve fastest
-Problem areas**: Chatbot Support shows 10-15% abandonment rate, needs improvement
-Premium service quality**: Investment Advice maintains high completion with excellent satisfaction
+Problem areas: Chatbot Support shows 10-15% abandonment rate, needs improvement
+Premium service quality: Investment Advice maintains high completion with excellent satisfaction
 
 Strategic Recommendations
 
