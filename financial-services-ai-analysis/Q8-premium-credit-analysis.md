@@ -15,7 +15,7 @@ FROM customers
 WHERE credit_score BETWEEN 750 AND 850
 AND annual_income > 80000
 AND customer_segment='Premium'
-ORDER BY credit_score DESC
+ORDER BY credit_score DESC;
 
 **Query 2: Geographic Premium Market Analysis**
 SELECT country, 
@@ -26,7 +26,7 @@ WHERE credit_score BETWEEN 750 AND 850
 AND annual_income > 80000
 AND customer_segment='Premium'
 GROUP BY country
-ORDER BY avg_credit_score DESC
+ORDER BY avg_credit_score DESC;
 
 --Query 1 results → Target list for €50+ premium services
 --Query 2 results → Geographic rollout priority for AI wealth management
