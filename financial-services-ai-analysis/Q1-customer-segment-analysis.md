@@ -3,7 +3,7 @@
 ## Business Question
 What is our customer base composition and average income by segment?
 
-## AI Strategy Context
+## Strategy Context
 Understanding customer segments to design targeted AI services and pricing strategies for European digital bank expansion.
 
 ## SQL Query
