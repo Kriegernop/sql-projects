@@ -23,12 +23,12 @@ ORDER BY avg_satisf_rating DESC;
 
 Key Business Insights
 
-**Top performers**: Products 1, 3, and 16 show highest satisfaction (4.5-5.0 ratings)
-- **Engagement leaders**: Premium Banking (Product 1) and AI Investment Advisor (Product 3) show 85-95 usage scores
-- **Subscription volume**: Product 1 (Premium Banking) leads with 8+ subscriptions, followed by Standard Banking
-- **AI vs Traditional**: AI-enhanced products (1, 3, 4, 5, 6, 8, 10) show higher average satisfaction than traditional
-- **Usage patterns**: Investment and Premium products show highest engagement (80-95 usage scores)
-- **Satisfaction spread**: Most products rate 3.5-5.0, indicating strong overall portfolio performance
+Top performers: Products 1, 3, and 16 show highest satisfaction (4.5-5.0 ratings)
+Engagement leaders: Premium Banking (Product 1) and AI Investment Advisor (Product 3) show 85-95 usage scores
+Subscription volume: Product 1 (Premium Banking) leads with 8+ subscriptions, followed by Standard Banking
+AI vs Traditional: AI-enhanced products (1, 3, 4, 5, 6, 8, 10) show higher average satisfaction than traditional
+Usage patterns: Investment and Premium products show highest engagement (80-95 usage scores)
+Satisfaction spread: Most products rate 3.5-5.0, indicating strong overall portfolio performance
 
 Strategic Recommendations
 
