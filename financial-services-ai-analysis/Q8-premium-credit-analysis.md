@@ -9,7 +9,7 @@ Risk assessment and premium AI service targeting based on credit quality and inc
 ## SQL Queries
 
 ### Query 1: Individual Premium Customer Analysis
-
+```sql
 SELECT customer_id, country, credit_score, annual_income, employment_status
 FROM customers
 WHERE credit_score BETWEEN 750 AND 850
