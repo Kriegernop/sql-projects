@@ -47,13 +47,13 @@ SQL-based business analysis for a European digital bank expanding into AI-driven
 3. **Channel Optimization**: Enhance mobile AI capabilities for primary engagement
 4. **Risk-Based Pricing**: Implement credit-score-based AI service tiers
 
-## 🛠 Technical Skills Demonstrated
+## Technical Skills Demonstrated
 - **Advanced SQL**: Complex WHERE clauses, subqueries, dynamic date calculations
 - **Business Intelligence**: Multi-dimensional analysis, KPI development, trend identification  
 - **Strategic Analytics**: Customer segmentation, risk assessment, performance optimization
 - **Data Storytelling**: Business insights with actionable recommendations
 
-## 📈 Business Impact
+## Business Impact
 This analysis framework supports:
 - **AI Strategy Development**: Data-driven service design and market positioning
 - **Risk Management**: Credit-based customer segmentation and fraud detection
