@@ -15,8 +15,7 @@ SELECT customer_segment,
 FROM customers 
 GROUP BY customer_segment
 ORDER BY avg_income DESC;
-Results
-SegmentCustomersPercentageAvg IncomePremium945.0%€96,444Standard840.0%€42,000Basic315.0%€26,000
+
 Key Business Insights
 
 Premium segment dominance: 45% of customer base with 2.3x higher income than Standard
