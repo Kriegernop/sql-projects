@@ -14,7 +14,7 @@ SELECT COUNT(*) AS numb_transactions,
        ROUND(AVG(ABS(amount)),0) AS avg_amount
 FROM transactions
 GROUP BY channel
-ORDER BY avg_amount DESC
+ORDER BY avg_amount DESC;
 
 --OR
 
@@ -34,7 +34,7 @@ SELECT COUNT(*) AS numb_transactions,
        MIN(ABS(amount)) AS min_amount,
        MAX(ABS(amount)) AS max_amount
 FROM transactions
-WHERE ai_flagged=1
+WHERE ai_flagged=1;
 
 
 Key Business Insights
