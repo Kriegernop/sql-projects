@@ -15,4 +15,3 @@ Cloud Platforms (AWS)
 
 AI Strategy & Implementation
 
-Data Architecture for AI Applications
