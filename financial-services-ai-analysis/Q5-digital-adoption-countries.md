@@ -15,7 +15,7 @@ SELECT country,
 FROM customers
 WHERE digital_adoption_score > 80
 GROUP BY country
-ORDER BY avg_score DESC
+ORDER BY avg_score DESC;
 
 
 Key Business Insights
