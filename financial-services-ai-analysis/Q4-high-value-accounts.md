@@ -22,7 +22,7 @@ SELECT account_type,
        ROUND(AVG(current_balance),0) AS avg_curr_balance
 FROM accounts
 GROUP BY account_type
-ORDER BY avg_curr_balance DESC
+ORDER BY avg_curr_balance DESC;
 
 Key Business Insights
 
