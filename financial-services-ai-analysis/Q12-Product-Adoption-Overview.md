@@ -1,4 +1,4 @@
-# Q10: Fraud Detection Analysis - AI Security Performance
+# Q12: Product Adoption Overview
 
 ## Business Question
 Display product names with subscription counts and AI enhancement status to analyze product portfolio performance.
