@@ -14,7 +14,7 @@ SELECT products.product_name,
 FROM products
 LEFT JOIN customer_products ON products.product_id = customer_products.product_id
 GROUP BY products.product_name, products.ai_enhanced
-ORDER BY numb_subscriptions DESC
+ORDER BY numb_subscriptions DESC;
 
 Key Business Insights
 
