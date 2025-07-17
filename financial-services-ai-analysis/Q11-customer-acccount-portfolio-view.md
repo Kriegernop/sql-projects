@@ -15,7 +15,7 @@ SELECT customers.first_name,
 FROM customers
 INNER JOIN accounts ON customers.customer_id = accounts.customer_id
 ORDER BY customers.last_name, accounts.current_balance DESC
-LIMIT 10
+LIMIT 10;
 
 Key Business Insights
 
