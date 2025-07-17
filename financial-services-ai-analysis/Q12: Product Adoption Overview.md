@@ -1,17 +1,24 @@
-Business Question
+### **Q12: Product Adoption Overview.md**
+```markdown
+# Q12: Product Adoption Overview
+
+## Business Question
 Display product names with subscription counts and AI enhancement status to analyze product portfolio performance.
-AI Strategy Context
+
+## AI Strategy Context
 Product adoption analysis enables AI service development prioritization and identifies market opportunities for AI-enhanced vs traditional product offerings.
 
-SQL Query
-sqlSELECT products.product_name,
+## SQL Queries
+
+### Query 1: Individual Premium Customer Analysis
+```sql
+SELECT products.product_name,
        products.ai_enhanced,
        COUNT(customer_products.subscription_date) AS numb_subscriptions
 FROM products
 LEFT JOIN customer_products ON products.product_id = customer_products.product_id
 GROUP BY products.product_name, products.ai_enhanced
-ORDER BY numb_subscriptions DESC
-
+ORDER BY numb_subscriptions DESC;
 
 Key Business Insights
 
